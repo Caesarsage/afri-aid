@@ -8,13 +8,13 @@ in progress...
 Clone this repository with:
 
 ```console
-foo@bar: ~$ https://github.com/msp-nigeria/msp-website-frontend.git
+foo@bar: ~$ https://github.com/Caesarsage/afri-aid.git
 ```
 
 Change to app directory with:
 
 ```console
-foo@bar: ~$ cd msp-website-frontend
+foo@bar: ~$ cd afri-aid
 ```
 
 Install dependencies with:
