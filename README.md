@@ -1,4 +1,4 @@
-# afri-aid Website Frontend Template
+# Afri-Aid Website Frontend Template
 This is the Front End Repository for heath based web application from GAD community project
 
 ## User Interface
