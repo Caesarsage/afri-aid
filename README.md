@@ -5,28 +5,30 @@ This is the Front End Repository for heath based web application from GAD commun
 in progress...
 
 ## Installation
+(in the command prompt or Terminal window):
+
 Clone this repository with:
 
 ```console
-terminal window or command prompt: ~$ git clone https://github.com/Caesarsage/afri-aid.git
+ git clone https://github.com/Caesarsage/afri-aid.git
 ```
 
 Change to app directory with:
 
 ```console
-terminal window: ~$ cd afri-aid
+ cd afri-aid
 ```
 
 Install dependencies with:
 
 ```console
-terminal window: ~$ npm install
+ npm install
 ```
 
 Run the app with:
 
 ```console
-terminal window: ~$ npm start
+ npm start
 ```
 
 The app will run in development mode.<br />
