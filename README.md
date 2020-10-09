@@ -36,7 +36,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ## To contribute:
 1. Pick an issue 
 0. Assign that issue to yourself
-0. Add the issue to the project board. See the gif for more info ![move to project board](https://user-images.githubusercontent.com/40396070/82836145-f97dcc00-9ebd-11ea-8b13-4369a61ee5e7.gif)
+0. Add the issue to the project board. See the gif for more info ![move to project board]<a href="https://gifyu.com/image/6rk0"><img src="https://s1.gifyu.com/images/ezgif.com-gif-makerc34b27f66b65ed02.gif" alt="ezgif.com-gif-makerc34b27f66b65ed02.gif" border="0" /></a>
 0. Create a branch from dev with a descriptive name:
     ```console
     foo@bar: ~$ git checkout -b <feature>
@@ -49,4 +49,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 0. Create a pull request to dev.  Wait for any comment or contributions from the maintainers
 
 ## Gitflow Diagram
-![Gitflow Diagram](./public/gitflow.jpg)
+![Gitflow Diagram] https://images.app.goo.gl/K1serAUbS9PvFGPY8
