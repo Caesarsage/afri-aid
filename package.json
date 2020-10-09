@@ -1,0 +1,19 @@
+{
+  "name": "afri-aid-frontend-template",
+  "version": "1.0.0",
+  "description": "GAD Community #web-health-06 projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caesarsage/afri-aid.git"
+  },
+  "author": "caesarsage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caesarsage/afri-aid/issues"
+  },
+  "homepage": "https://github.com/Caesarsage/afri-aid#readme"
+}
